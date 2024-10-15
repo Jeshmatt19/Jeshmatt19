@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeshmatt19.
+- 👋 Hi, I’m Jesh Matthew.
 - 👀 I’m interested in the dynamics and relationships between Humans and computers.
 - 🌱 I’m currently learning python, c++, and c#.
 - 💞️ I’m looking to collaborate on a new project with some of my friends.
