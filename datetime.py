@@ -1,0 +1,2 @@
+now=().time()
+print(now)
